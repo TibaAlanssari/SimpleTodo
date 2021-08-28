@@ -22,7 +22,6 @@ The following **additional** features are implemented:
 
 * [x] Improved UI/UX of the app
 * [x] Added a Home Page to the app
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -34,11 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Tiba Al Anssari]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
